@@ -1,0 +1,7 @@
+Managing or creating dropdown lists for a specific entity
+Creating Master-Details View in data-driven websites
+Used in showing shopping carts on the website
+Used in Pagination
+Used in a website to show User profile widget
+Used to make Dashboards for integrating multiple data into one place
+Used as an Aggregate Root to make reports in Domain Driven Design (DDD)
